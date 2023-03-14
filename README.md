@@ -4,3 +4,6 @@ Big shout out to @KTanAug21 for this article https://fly.io/laravel-bytes/multi-
 
 ## About Wire Multi Upload
 I needed a drag and drop image upload solution using Laravel Livewire. So using the above article I built one that allows concurrent, chunked, file uploads. But I took it a step further and implemented drag and drop functionality along with validation on the client side.
+
+![alt text](/public/images/loading-images.png)
+![alt text](/public/images/loaded-images.png)
